@@ -1,0 +1,7 @@
+to compile ts code: 
+    use "$ tsc file.ts file.js "
+    tsc = type script compiler
+    it compiles ts file into js, which the browser can understand
+    hence In the main html file, link to the JAVASCRIPT file
+    If the ts and js files both have thesame name, then exclude file.js
+        like this: "$ tsc file.ts"
